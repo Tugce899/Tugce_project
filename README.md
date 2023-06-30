@@ -2,4 +2,6 @@
 
 # Tugces Project
 
+Author: Tugce
+
 my *awesome* project 
